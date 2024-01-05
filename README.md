@@ -1,6 +1,6 @@
 # RL-gridworld
 
-![alt text](https://github.com/schopra6/RL-/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/schopra6/Karel-Maze_RL/blob/main/images/karel.png?raw=true)
 
 ## Problem Statement 
 
