@@ -1,4 +1,3 @@
-# README
 
 # RL-MAZE
 
